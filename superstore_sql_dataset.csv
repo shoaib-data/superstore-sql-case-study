@@ -1,0 +1,306 @@
+OrderDate,CustomerID,Category,SubCategory,City,Region,Quantity,Sales,Profit
+2023-01-01,CUST-7400,Office Supplies,Paper,Kolkata,West,1,3241.51,484.68
+2023-01-02,CUST-4416,Technology,Phones,Kolkata,West,7,4776.29,-708.9
+2023-01-03,CUST-7899,Technology,Copiers,Mumbai,North,7,4412.55,622.06
+2023-01-04,CUST-2828,Office Supplies,Art Supplies,Hyderabad,North,2,3435.84,91.85
+2023-01-05,CUST-8561,Technology,Accessories,Hyderabad,East,9,4065.07,238.45
+2023-01-06,CUST-3810,Technology,Phones,,West,2,4294.61,111.64
+2023-01-07,CUST-8350,Furniture,Chairs,Kolkata,South,3,4193.55,-109.4
+2023-01-08,CUST-7768,Technology,Phones,Hyderabad,North,6,4403.57,-139.03
+2023-01-09,CUST-4626,Furniture,Chairs,Delhi,East,9,4940.6,160.68
+2023-01-10,CUST-1914,Office Supplies,Paper,Chennai,South,6,3262.17,-3.24
+2023-01-11,CUST-4125,Office Supplies,Binders,Kolkata,East,4,3367.83,-215.6
+2023-01-12,CUST-9478,Office Supplies,Art Supplies,Delhi,East,1,2998.48,-170.74
+2023-01-13,CUST-7566,Office Supplies,Paper,Kolkata,North,1,845.9,77.73
+2023-01-14,CUST-3110,Technology,Copiers,Delhi,East,3,201.31,23.32
+2023-01-15,CUST-4493,Technology,Accessories,Bangalore,West,2,4898.33,-69.15
+2023-01-16,CUST-5442,Office Supplies,Paper,Chennai,North,6,645.71,123.9
+2023-01-17,CUST-6333,Furniture,Tables,Delhi,North,2,378.05,-3.68
+2023-01-18,CUST-5443,Technology,Accessories,Mumbai,South,8,1188.06,-81.83
+2023-01-19,CUST-2006,Office Supplies,Art Supplies,Delhi,West,7,1770.29,-263.48
+2023-01-20,CUST-8142,Furniture,Chairs,Bangalore,East,2,3071.63,-279.37
+2023-01-21,CUST-2834,Technology,Accessories,Chennai,North,1,4758.42,610.93
+2023-01-22,CUST-7957,Technology,Phones,Delhi,West,9,1259.01,-119.67
+2023-01-23,CUST-8067,Technology,Copiers,Delhi,North,3,1008.09,-135.9
+2023-01-24,CUST-6508,Office Supplies,Binders,Kolkata,South,6,2186.23,-125.92
+2023-01-25,CUST-7025,Technology,Copiers,Mumbai,North,7,4817.44,-219.4
+2023-01-26,CUST-3895,Furniture,Chairs,Chennai,West,2,380.28,-52.37
+2023-01-27,CUST-2169,Office Supplies,Paper,Delhi,North,8,4223.65,378.53
+2023-01-28,CUST-5285,Office Supplies,Paper,Bangalore,West,7,3155.54,-446.62
+2023-01-29,CUST-7776,Furniture,Chairs,Bangalore,North,4,281.74,-19.85
+2023-01-30,CUST-6632,Furniture,Tables,Bangalore,West,5,2392.15,
+2023-01-31,CUST-3940,Technology,Copiers,Hyderabad,North,4,1990.1,372.29
+2023-02-01,CUST-8520,Furniture,Chairs,Hyderabad,West,1,2192.48,-243.93
+2023-02-02,CUST-9733,Office Supplies,Art Supplies,Chennai,East,7,1435.05,260.84
+2023-02-03,CUST-7969,Technology,Phones,Chennai,South,8,4499.4,1063.56
+2023-02-04,CUST-1144,Technology,Phones,Bangalore,East,1,1909.64,-53.48
+2023-02-05,CUST-2897,Office Supplies,Paper,Chennai,West,8,2805.27,-133.36
+2023-02-06,CUST-7490,Technology,Copiers,Delhi,South,5,2163.16,141.93
+2023-02-07,CUST-4404,Office Supplies,Binders,Mumbai,East,9,2012.68,43.27
+2023-02-08,CUST-7062,Office Supplies,Art Supplies,Kolkata,South,4,296.87,4.29
+2023-02-09,CUST-4566,Office Supplies,Art Supplies,Kolkata,North,2,4946.8,-289.32
+2023-02-10,CUST-8928,Office Supplies,Art Supplies,Hyderabad,West,8,1583.62,-63.47
+2023-02-11,CUST-7088,Furniture,Bookcases,Hyderabad,South,6,4879.1,596.37
+2023-02-12,CUST-1026,Office Supplies,Binders,Chennai,South,3,4321.52,782.89
+2023-02-13,CUST-9660,Technology,Phones,Kolkata,North,4,3671.52,-550.57
+2023-02-14,CUST-4890,Office Supplies,Art Supplies,Chennai,East,3,1821.22,381.02
+2023-02-15,CUST-9321,Technology,Accessories,Delhi,North,8,482.35,5.86
+2023-02-16,CUST-9843,Furniture,Bookcases,Bangalore,West,3,3867.01,-209.71
+2023-02-17,CUST-1059,Technology,Copiers,Kolkata,East,3,3683.14,349.52
+2023-02-18,CUST-4454,Office Supplies,Art Supplies,Hyderabad,North,6,3834.97,-302.52
+2023-02-19,CUST-1656,Furniture,Bookcases,Chennai,North,2,4007.69,-534.24
+2023-02-20,CUST-9150,Technology,Accessories,Kolkata,East,9,3607.77,263.04
+2023-02-21,CUST-4419,Office Supplies,Binders,Delhi,North,2,3559.49,-451.41
+2023-02-22,CUST-5486,Technology,Phones,Kolkata,West,9,2357.67,213.55
+2023-02-23,CUST-4049,Office Supplies,Paper,Mumbai,East,6,3625.06,153.99
+2023-02-24,CUST-6502,Technology,Copiers,Kolkata,East,1,3674.34,436.12
+2023-02-25,CUST-5558,Furniture,Bookcases,Kolkata,West,5,3222.71,215.13
+2023-02-26,CUST-1086,Office Supplies,Paper,Kolkata,West,4,1252.06,263.11
+2023-02-27,CUST-6437,Office Supplies,Binders,Delhi,East,6,2989.08,-343.75
+2023-02-28,CUST-9932,Furniture,Bookcases,Hyderabad,West,5,1915.82,305.16
+2023-03-01,CUST-8148,Technology,Copiers,Delhi,North,5,2919.28,118.74
+2023-03-02,CUST-3962,Office Supplies,Paper,Delhi,West,6,3830.64,-517.41
+2023-03-03,CUST-6609,Technology,Accessories,Chennai,North,3,3328.06,-63.48
+2023-03-04,CUST-2898,Furniture,Chairs,Hyderabad,East,8,1331.42,-189.41
+2023-03-05,CUST-4860,Office Supplies,Binders,Bangalore,North,1,1965.54,329.97
+2023-03-06,CUST-7096,Furniture,Chairs,Kolkata,East,9,1108.72,172.57
+2023-03-07,CUST-9358,Office Supplies,Art Supplies,Chennai,West,8,2935.99,-310.06
+2023-03-08,CUST-2868,Office Supplies,Art Supplies,Delhi,South,6,824.19,16.16
+2023-03-09,CUST-2694,Furniture,Chairs,Kolkata,East,7,2308.42,402.53
+2023-03-10,CUST-5010,Technology,Accessories,Delhi,South,2,3262.02,167.77
+2023-03-11,CUST-3565,Furniture,Chairs,Delhi,North,7,4913.62,668.23
+2023-03-12,CUST-6870,Office Supplies,Paper,Mumbai,West,5,3667.85,500.38
+2023-03-13,CUST-1790,Technology,Copiers,Delhi,South,2,3256.14,-8.67
+2023-03-14,CUST-9962,Technology,Phones,,North,8,2015.89,-260.57
+2023-03-15,CUST-8267,Furniture,Tables,Hyderabad,West,5,4077.76,-164.63
+2023-03-16,CUST-8739,Technology,Copiers,Kolkata,West,3,4591.65,-240.83
+2023-03-17,CUST-7600,Office Supplies,Art Supplies,Mumbai,East,3,3891.26,793.38
+2023-03-18,CUST-9187,Furniture,Bookcases,Delhi,North,7,3561.46,-388.87
+2023-03-19,CUST-9359,Furniture,Chairs,Mumbai,South,8,886.51,116.34
+2023-03-20,CUST-7117,Technology,Phones,Mumbai,East,4,3114.1,373.28
+2023-03-21,CUST-4577,Furniture,Chairs,Kolkata,South,6,3594.6,682.2
+2023-03-22,CUST-7466,Office Supplies,Paper,Mumbai,West,7,4035.16,-280.64
+2023-03-23,CUST-7830,Technology,Phones,Chennai,North,7,3837.99,442.05
+2023-03-24,CUST-1622,Technology,Accessories,Delhi,West,8,3410.38,498.18
+2023-03-25,CUST-3023,Office Supplies,Paper,Chennai,South,7,2714.58,287.34
+2023-03-26,CUST-4955,Office Supplies,Binders,Kolkata,South,3,3530.87,-126.74
+2023-03-27,CUST-3090,Office Supplies,Art Supplies,Hyderabad,South,8,4841.55,-348.72
+2023-03-28,CUST-4504,Furniture,Tables,Delhi,East,2,645.67,33.53
+2023-03-29,CUST-3185,Office Supplies,Binders,Kolkata,East,8,469.68,95.69
+2023-03-30,CUST-2993,Office Supplies,Binders,Hyderabad,West,6,4680.07,523.42
+2023-03-31,CUST-6604,Technology,Phones,Hyderabad,South,3,743.62,157.59
+2023-04-01,CUST-2384,Office Supplies,Art Supplies,Delhi,East,4,1654.06,-106.98
+2023-04-02,CUST-4786,Office Supplies,Binders,Kolkata,West,4,3311.41,-164.45
+2023-04-03,CUST-4095,Office Supplies,Paper,Delhi,South,7,3921.36,334.2
+2023-04-04,CUST-3956,Technology,Copiers,Hyderabad,North,1,4560.05,86.73
+2023-04-05,CUST-5604,Technology,Phones,Chennai,East,8,1286.53,-190.71
+2023-04-06,CUST-5043,Office Supplies,Paper,Chennai,North,4,4842.92,-27.9
+2023-04-07,CUST-4414,Technology,Phones,Delhi,West,5,1163.76,46.84
+2023-04-08,CUST-9822,Technology,Accessories,Mumbai,South,3,3718.66,472.05
+2023-04-09,CUST-6907,Technology,Phones,Hyderabad,West,4,4100.25,139.53
+2023-04-10,CUST-6006,Technology,Accessories,Delhi,West,2,1809.85,-249.97
+2023-04-11,CUST-7397,Furniture,Chairs,Bangalore,North,3,3376.69,-361.29
+2023-04-12,CUST-5246,Technology,Copiers,Chennai,West,4,4021.66,-498.0
+2023-04-13,CUST-8820,Furniture,Tables,Mumbai,East,6,2642.61,186.0
+2023-04-14,CUST-7303,Furniture,Chairs,Bangalore,South,2,318.54,55.98
+2023-04-15,CUST-8156,Technology,Accessories,Chennai,North,1,1961.35,-20.17
+2023-04-16,CUST-6631,Technology,Copiers,Bangalore,North,5,1497.08,314.56
+2023-04-17,CUST-7313,Technology,Phones,Chennai,West,9,2684.73,537.38
+2023-04-18,CUST-3010,Office Supplies,Binders,Kolkata,West,3,4459.9,657.42
+2023-04-19,CUST-3337,Furniture,Chairs,Mumbai,East,9,3627.92,
+2023-04-20,CUST-7956,Technology,Phones,Chennai,East,6,2676.44,348.03
+2023-04-21,CUST-4177,Office Supplies,Binders,Bangalore,West,7,1948.55,326.37
+2023-04-22,CUST-9187,Technology,Phones,Kolkata,North,3,1280.12,253.78
+2023-04-23,CUST-3720,Furniture,Tables,Hyderabad,North,8,4641.72,
+2023-04-24,CUST-5048,Furniture,Chairs,Mumbai,North,3,4449.51,-217.04
+2023-04-25,CUST-2784,Technology,Accessories,Hyderabad,North,5,2302.52,-240.6
+2023-04-26,CUST-6135,Technology,Copiers,Mumbai,North,8,579.98,80.42
+2023-04-27,CUST-1859,Office Supplies,Binders,Bangalore,South,6,3280.76,-221.69
+2023-04-28,CUST-3009,Furniture,Bookcases,Chennai,North,1,672.47,-46.83
+2023-04-29,CUST-7843,Technology,Copiers,Kolkata,East,7,1215.34,216.81
+2023-04-30,CUST-7468,Furniture,Bookcases,Kolkata,South,3,1632.77,
+2023-05-01,CUST-5064,Furniture,Tables,Bangalore,South,9,3897.53,714.13
+2023-05-02,CUST-4282,Technology,Phones,Kolkata,South,6,2513.12,334.13
+2023-05-03,CUST-2706,Technology,Copiers,Bangalore,West,7,2057.93,173.95
+2023-05-04,CUST-5325,Technology,Copiers,Delhi,East,3,1155.57,284.35
+2023-05-05,CUST-8636,Office Supplies,Binders,Mumbai,West,8,4913.55,293.16
+2023-05-06,CUST-4858,Office Supplies,Binders,Bangalore,West,9,335.63,9.85
+2023-05-07,CUST-3139,Technology,Accessories,Mumbai,North,5,2537.65,-67.71
+2023-05-08,CUST-2517,Furniture,Tables,Kolkata,South,3,3229.36,437.14
+2023-05-09,CUST-3029,Furniture,Chairs,Delhi,West,1,2958.24,699.6
+2023-05-10,CUST-8625,Technology,Accessories,Kolkata,North,4,664.32,163.94
+2023-05-11,CUST-2795,Furniture,Tables,Chennai,North,4,4074.78,-32.12
+2023-05-12,CUST-5268,Technology,Accessories,Mumbai,North,4,1792.66,335.3
+2023-05-13,CUST-2820,Office Supplies,Art Supplies,Delhi,South,5,2260.14,386.62
+2023-05-14,CUST-9206,Office Supplies,Paper,Chennai,East,9,1466.45,193.78
+2023-05-15,CUST-6580,Furniture,Tables,Delhi,North,4,2881.3,-424.88
+2023-05-16,CUST-6117,Technology,Phones,Hyderabad,East,9,1956.18,282.8
+2023-05-17,CUST-9972,Furniture,Chairs,Mumbai,South,2,2450.63,447.04
+2023-05-18,CUST-1768,Technology,Copiers,Kolkata,East,2,1334.75,66.25
+2023-05-19,CUST-5319,Technology,Copiers,Kolkata,North,8,303.03,-43.62
+2023-05-20,CUST-5807,Office Supplies,Paper,Mumbai,West,2,4813.18,547.28
+2023-05-21,CUST-9401,Office Supplies,Paper,Delhi,West,7,3473.56,466.59
+2023-05-22,CUST-8390,Office Supplies,Paper,Mumbai,South,9,3742.3,920.79
+2023-05-23,CUST-5334,Technology,Accessories,Chennai,North,4,990.11,-39.69
+2023-05-24,CUST-8443,Technology,Phones,Chennai,West,3,1713.31,-133.06
+2023-05-25,CUST-7896,Technology,Copiers,Kolkata,West,2,1232.41,-103.42
+2023-05-26,CUST-8856,Technology,Phones,Hyderabad,West,7,3866.59,549.22
+2023-05-27,CUST-7715,Office Supplies,Paper,Delhi,East,3,4804.64,422.91
+2023-05-28,CUST-2842,Office Supplies,Binders,Kolkata,North,7,3136.77,695.0
+2023-05-29,CUST-9320,Office Supplies,Paper,Kolkata,South,4,974.45,60.02
+2023-05-30,CUST-2095,Furniture,Chairs,Mumbai,East,7,4606.47,-138.53
+2023-05-31,CUST-6497,Furniture,Tables,Mumbai,North,9,265.88,-24.95
+2023-06-01,CUST-2086,Office Supplies,Paper,Hyderabad,North,5,2402.78,38.41
+2023-06-02,CUST-1611,Office Supplies,Paper,Kolkata,East,2,4046.52,344.03
+2023-06-03,CUST-4918,Technology,Phones,Kolkata,South,2,3427.66,347.48
+2023-06-04,CUST-9371,Furniture,Tables,Mumbai,South,7,4667.92,-405.23
+2023-06-05,CUST-2742,Technology,Copiers,Chennai,West,5,1851.17,223.62
+2023-06-06,CUST-7084,Furniture,Tables,Delhi,North,4,2052.48,168.78
+2023-06-07,CUST-7331,Office Supplies,Binders,Bangalore,West,1,3716.29,519.25
+2023-06-08,CUST-2819,Office Supplies,Paper,Bangalore,East,1,3087.05,-393.16
+2023-06-09,CUST-8279,Office Supplies,Binders,Chennai,East,1,2406.26,241.71
+2023-06-10,CUST-4910,Office Supplies,Binders,,South,8,363.11,70.47
+2023-06-11,CUST-8743,Furniture,Bookcases,Hyderabad,West,5,4492.24,213.05
+2023-06-12,CUST-1631,Technology,Copiers,Hyderabad,East,4,2491.33,-44.84
+2023-06-13,CUST-2916,Office Supplies,Paper,Kolkata,East,8,2331.58,-9.51
+2023-06-14,CUST-1910,Office Supplies,Art Supplies,Delhi,East,2,3604.1,648.12
+2023-06-15,CUST-4873,Technology,Accessories,Hyderabad,South,1,4393.45,24.07
+2023-06-16,CUST-1740,Furniture,Bookcases,Bangalore,North,9,2970.15,69.85
+2023-06-17,CUST-6856,Technology,Accessories,Bangalore,West,7,1890.63,4.52
+2023-06-18,CUST-7856,Furniture,Bookcases,Kolkata,East,8,4218.3,719.62
+2023-06-19,CUST-9370,Furniture,Tables,Kolkata,North,8,2531.85,-2.18
+2023-06-20,CUST-1328,Furniture,Chairs,Chennai,South,8,4459.67,870.37
+2023-06-21,CUST-1034,Office Supplies,Binders,Chennai,South,4,1385.9,122.3
+2023-06-22,CUST-6475,Office Supplies,Paper,Hyderabad,North,4,1419.69,-171.41
+2023-06-23,CUST-9775,Technology,Accessories,Delhi,West,8,1705.74,-33.98
+2023-06-24,CUST-1727,Technology,Phones,Bangalore,North,4,4959.74,-430.95
+2023-06-25,CUST-9349,Technology,Copiers,Mumbai,North,4,3658.41,-236.69
+2023-06-26,CUST-2834,Furniture,Chairs,Bangalore,North,4,832.52,-73.07
+2023-06-27,CUST-7281,Furniture,Tables,Mumbai,West,5,1380.15,257.93
+2023-06-28,CUST-1354,Office Supplies,Art Supplies,Mumbai,South,9,595.82,46.59
+2023-06-29,CUST-5837,Technology,Phones,Delhi,South,4,4939.69,-46.2
+2023-06-30,CUST-8780,Furniture,Bookcases,Kolkata,North,6,867.23,162.01
+2023-07-01,CUST-5098,Office Supplies,Paper,Kolkata,West,7,3041.3,311.23
+2023-07-02,CUST-2688,Office Supplies,Art Supplies,Kolkata,East,6,3945.4,-143.05
+2023-07-03,CUST-6212,Furniture,Bookcases,Hyderabad,North,6,386.42,-55.56
+2023-07-04,CUST-6531,Office Supplies,Art Supplies,Bangalore,North,5,1692.5,84.49
+2023-07-05,CUST-1472,Office Supplies,Art Supplies,Delhi,South,8,4943.05,1078.51
+2023-07-06,CUST-6199,Technology,Copiers,Delhi,South,7,2634.75,-272.16
+2023-07-07,CUST-5364,Office Supplies,Art Supplies,Delhi,South,2,1939.96,-70.4
+2023-07-08,CUST-8297,Technology,Phones,Hyderabad,North,9,2764.32,-49.74
+2023-07-09,CUST-7124,Furniture,Bookcases,Hyderabad,South,2,2762.78,562.3
+2023-07-10,CUST-6922,Office Supplies,Paper,Kolkata,North,7,799.37,189.57
+2023-07-11,CUST-2923,Technology,Copiers,Kolkata,East,7,784.35,-6.61
+2023-07-12,CUST-6397,Office Supplies,Binders,Chennai,West,7,3890.66,-69.72
+2023-07-13,CUST-1808,Furniture,Chairs,Hyderabad,North,7,908.36,43.18
+2023-07-14,CUST-4933,Technology,Accessories,Chennai,West,4,1141.54,
+2023-07-15,CUST-7779,Furniture,Chairs,Kolkata,East,6,1339.37,271.9
+2023-07-16,CUST-2817,Furniture,Bookcases,Hyderabad,West,4,2141.94,327.15
+2023-07-17,CUST-1749,Furniture,Tables,,West,7,686.14,25.83
+2023-07-18,CUST-3610,Office Supplies,Art Supplies,Kolkata,North,6,1251.83,
+2023-07-19,CUST-7205,Office Supplies,Paper,,North,9,3353.71,-250.81
+2023-07-20,CUST-8503,Office Supplies,Binders,Kolkata,West,3,2312.09,376.52
+2023-07-21,CUST-8541,Technology,Phones,Mumbai,East,7,2473.86,400.17
+2023-07-22,CUST-9592,Furniture,Bookcases,Delhi,West,3,3585.4,218.47
+2023-07-23,CUST-7927,Furniture,Chairs,Hyderabad,South,7,844.58,191.23
+2023-07-24,CUST-7478,Office Supplies,Paper,Hyderabad,North,6,2365.63,-178.37
+2023-07-25,CUST-1279,Technology,Copiers,Kolkata,West,3,626.31,-6.7
+2023-07-26,CUST-4741,Technology,Accessories,Hyderabad,South,7,2074.81,-50.61
+2023-07-27,CUST-1744,Technology,Accessories,Hyderabad,East,5,3089.54,550.69
+2023-07-28,CUST-6134,Office Supplies,Binders,Bangalore,East,3,4587.37,222.63
+2023-07-29,CUST-2866,Furniture,Bookcases,Kolkata,East,2,213.73,-30.71
+2023-07-30,CUST-5885,Furniture,Bookcases,Mumbai,West,6,3048.99,496.2
+2023-07-31,CUST-4179,Furniture,Tables,Bangalore,West,2,4658.63,-118.83
+2023-08-01,CUST-1010,Technology,Accessories,Hyderabad,South,7,2792.75,-36.78
+2023-08-02,CUST-4394,Office Supplies,Binders,Kolkata,West,6,1842.91,122.38
+2023-08-03,CUST-5340,Technology,Copiers,Kolkata,West,8,2472.53,458.26
+2023-08-04,CUST-8490,Technology,Accessories,Chennai,West,6,317.26,-26.14
+2023-08-05,CUST-6666,Furniture,Tables,Bangalore,North,5,1816.31,176.48
+2023-08-06,CUST-3746,Office Supplies,Art Supplies,Delhi,South,4,2919.78,107.49
+2023-08-07,CUST-8047,Technology,Phones,Chennai,East,3,4855.34,956.24
+2023-08-08,CUST-4319,Technology,Copiers,Chennai,North,7,725.71,-81.9
+2023-08-09,CUST-1036,Office Supplies,Binders,Bangalore,North,8,4536.22,-182.89
+2023-08-10,CUST-3234,Technology,Accessories,Hyderabad,North,2,1580.89,231.72
+2023-08-11,CUST-2387,Office Supplies,Binders,Kolkata,West,2,3499.92,-138.03
+2023-08-12,CUST-3252,Technology,Accessories,Mumbai,South,4,1719.13,416.65
+2023-08-13,CUST-1994,Technology,Phones,Kolkata,East,4,597.49,-45.81
+2023-08-14,CUST-2959,Office Supplies,Paper,Mumbai,East,9,4762.52,-577.09
+2023-08-15,CUST-6813,Technology,Accessories,Kolkata,North,1,1403.7,277.93
+2023-08-16,CUST-1967,Technology,Copiers,Bangalore,North,2,4878.64,-360.89
+2023-08-17,CUST-4054,Technology,Phones,Mumbai,North,9,1433.98,193.71
+2023-08-18,CUST-9682,Technology,Copiers,Bangalore,West,9,1919.71,195.59
+2023-08-19,CUST-5638,Office Supplies,Paper,Mumbai,East,4,3249.57,-123.82
+2023-08-20,CUST-8192,Office Supplies,Paper,Bangalore,North,9,3177.28,189.64
+2023-08-21,CUST-3207,Office Supplies,Binders,Bangalore,South,8,3899.76,-193.56
+2023-08-22,CUST-3927,Technology,Phones,Bangalore,West,1,2957.63,
+2023-08-23,CUST-8902,Furniture,Bookcases,Chennai,East,7,4140.65,-102.74
+2023-08-24,CUST-4986,Furniture,Tables,Kolkata,North,6,1212.42,60.24
+2023-08-25,CUST-1271,Furniture,Bookcases,Kolkata,West,5,1673.71,315.51
+2023-08-26,CUST-4628,Technology,Phones,Delhi,East,9,2285.4,-12.96
+2023-08-27,CUST-8559,Office Supplies,Binders,Chennai,East,9,2639.05,535.73
+2023-08-28,CUST-8643,Technology,Phones,Hyderabad,West,9,4152.44,-557.78
+2023-08-29,CUST-8780,Technology,Phones,Chennai,West,6,2342.51,384.96
+2023-08-30,CUST-1050,Office Supplies,Paper,Kolkata,West,6,530.14,1.31
+2023-08-31,CUST-2553,Furniture,Bookcases,Delhi,North,4,3262.44,-445.92
+2023-09-01,CUST-4728,Office Supplies,Binders,Chennai,West,4,2406.02,-55.49
+2023-09-02,CUST-5130,Office Supplies,Binders,Hyderabad,East,3,544.11,24.37
+2023-09-03,CUST-4417,Office Supplies,Paper,Mumbai,West,3,1539.36,176.26
+2023-09-04,CUST-5906,Technology,Phones,Mumbai,South,7,4926.51,122.37
+2023-09-05,CUST-2256,Office Supplies,Art Supplies,Chennai,West,9,422.64,-48.47
+2023-09-06,CUST-5462,Furniture,Bookcases,Kolkata,West,9,846.25,76.52
+2023-09-07,CUST-2625,Office Supplies,Binders,Chennai,West,9,2303.53,284.81
+2023-09-08,CUST-6898,Technology,Copiers,Mumbai,North,6,735.22,127.81
+2023-09-09,CUST-4635,Technology,Accessories,Hyderabad,West,2,3554.18,867.24
+2023-09-10,CUST-5460,Technology,Phones,Hyderabad,South,5,3478.51,218.28
+2023-09-11,CUST-4256,Technology,Copiers,Hyderabad,South,2,3631.07,-502.06
+2023-09-12,CUST-4022,Furniture,Chairs,Bangalore,North,3,2252.8,-193.22
+2023-09-13,CUST-9543,Technology,Phones,Chennai,West,4,482.46,28.76
+2023-09-14,CUST-8616,Office Supplies,Binders,,East,8,2827.83,
+2023-09-15,CUST-9975,Office Supplies,Art Supplies,Kolkata,West,3,4334.64,947.76
+2023-09-16,CUST-9795,Technology,Accessories,Kolkata,South,7,4889.28,-610.28
+2023-09-17,CUST-6610,Furniture,Tables,Bangalore,East,2,4239.91,-475.56
+2023-09-18,CUST-9199,Office Supplies,Binders,Kolkata,South,2,295.15,19.41
+2023-09-19,CUST-6378,Furniture,Tables,Kolkata,North,6,3958.14,-21.94
+2023-09-20,CUST-4502,Furniture,Bookcases,Chennai,East,7,4001.59,902.95
+2023-09-21,CUST-5433,Office Supplies,Paper,Hyderabad,North,3,3746.13,-479.16
+2023-09-22,CUST-5251,Office Supplies,Binders,Kolkata,South,2,680.92,69.79
+2023-09-23,CUST-4635,Office Supplies,Paper,Hyderabad,South,3,3716.02,-112.05
+2023-09-24,CUST-3505,Furniture,Chairs,Mumbai,South,7,4870.95,294.42
+2023-09-25,CUST-6584,Technology,Phones,Kolkata,South,8,4068.36,364.71
+2023-09-26,CUST-3126,Office Supplies,Binders,Hyderabad,West,8,3549.11,773.66
+2023-09-27,CUST-5014,Office Supplies,Binders,Kolkata,South,8,3530.51,31.39
+2023-09-28,CUST-5800,Technology,Accessories,Chennai,East,3,823.08,83.56
+2023-09-29,CUST-9497,Technology,Copiers,Hyderabad,East,5,1317.09,283.65
+2023-09-30,CUST-9716,Office Supplies,Paper,Bangalore,North,4,904.38,147.45
+2023-10-01,CUST-7863,Furniture,Chairs,Bangalore,West,1,1267.22,130.8
+2023-10-02,CUST-6166,Office Supplies,Art Supplies,Mumbai,West,1,2421.29,-275.26
+2023-10-03,CUST-7915,Furniture,Tables,Hyderabad,South,4,3110.62,708.95
+2023-10-04,CUST-9070,Furniture,Chairs,Mumbai,West,5,4498.43,1032.11
+2023-10-05,CUST-3877,Technology,Phones,,South,9,4533.11,704.55
+2023-10-06,CUST-8410,Office Supplies,Art Supplies,Kolkata,West,1,4617.32,-668.11
+2023-10-07,CUST-1518,Furniture,Bookcases,Mumbai,East,6,1757.33,178.91
+2023-10-08,CUST-6197,Office Supplies,Binders,Kolkata,West,1,4677.21,1012.33
+2023-10-09,CUST-4703,Office Supplies,Paper,,West,2,1244.27,21.42
+2023-10-10,CUST-7175,Technology,Copiers,Bangalore,East,9,3769.55,759.79
+2023-10-11,CUST-7912,Furniture,Chairs,Hyderabad,West,5,630.4,-6.28
+2023-10-12,CUST-7686,Technology,Accessories,Delhi,South,1,1407.35,250.45
+2023-10-13,CUST-7461,Technology,Accessories,Chennai,South,2,4407.08,533.58
+2023-10-14,CUST-1018,Furniture,Bookcases,Bangalore,North,4,986.84,162.74
+2023-10-15,CUST-9012,Technology,Phones,Delhi,South,1,796.38,96.87
+2023-10-16,CUST-1305,Office Supplies,Art Supplies,Chennai,West,5,2286.77,433.3
+2023-10-17,CUST-7309,Furniture,Tables,Mumbai,East,3,4607.37,1039.21
+2023-10-18,CUST-9981,Furniture,Chairs,Chennai,South,8,3796.06,306.74
+2023-10-19,CUST-1754,Furniture,Chairs,Hyderabad,South,6,4006.5,513.67
+2023-10-20,CUST-1592,Furniture,Tables,Delhi,East,7,1588.11,369.61
+2023-10-21,CUST-7727,Furniture,Bookcases,Kolkata,East,2,1149.35,174.65
+2023-10-22,CUST-1743,Furniture,Chairs,Delhi,East,2,524.36,13.91
+2023-10-23,CUST-5211,Office Supplies,Binders,Chennai,West,5,3596.7,-16.7
+2023-10-24,CUST-5519,Office Supplies,Art Supplies,Kolkata,North,3,547.53,-52.57
+2023-10-25,CUST-3510,Technology,Accessories,Hyderabad,West,5,2215.18,-140.26
+2023-10-26,CUST-3445,Technology,Copiers,Kolkata,South,3,4210.62,368.09
+2023-10-27,CUST-4962,Office Supplies,Art Supplies,Mumbai,North,4,3975.1,-483.91
+2023-01-25,CUST-7025,Technology,Copiers,Mumbai,North,7,4817.44,-219.4
+2023-03-07,CUST-9358,Office Supplies,Art Supplies,Chennai,West,8,2935.99,-310.06
+2023-04-24,CUST-5048,Furniture,Chairs,Mumbai,North,3,4449.51,-217.04
+2023-09-19,CUST-6378,Furniture,Tables,Kolkata,North,6,3958.14,-21.94
+2023-07-08,CUST-8297,Technology,Phones,Hyderabad,North,9,2764.32,-49.74
