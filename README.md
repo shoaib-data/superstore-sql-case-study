@@ -70,6 +70,7 @@ These charts support business decision-making and make the analysis more insight
 **Shoaib**  
 GitHub: https://github.com/shoaib-data
 Linkedin: www.linkedin.com/in/shoaib99
+Gmail : syedshoaib0777@gmail.com
 
 ---
 
